@@ -11,7 +11,7 @@ This repository exists only to provide a convenient target for the `seaborn.load
 
 ===============
 Copy link to google colab to get data set
-```python```
+```python
 #read  file from git hub
 url = 'copied_raw_GH_link'
 df1 = pd.read_csv(url)
